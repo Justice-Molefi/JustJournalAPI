@@ -1,4 +1,4 @@
-namespace JustJournal
+namespace JustJournalAPI
 {
     public class WeatherForecast
     {

@@ -1,6 +1,7 @@
+using JustJournalAPI;
 using Microsoft.AspNetCore.Mvc;
 
-namespace JustJournal.Controllers
+namespace JustJournalAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]

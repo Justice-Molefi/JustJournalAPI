@@ -466,9 +466,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Justice\\Desktop\\Learning\\JustJournal\\JustJournal\\JustJournal.csproj",
-      "projectName": "JustJournal",
-      "projectPath": "C:\\Users\\Justice\\Desktop\\Learning\\JustJournal\\JustJournal\\JustJournal.csproj",
+      "projectUniqueName": "C:\\Users\\Justice\\Desktop\\Learning\\JustJournal\\JustJournal\\JustJournalAPI.csproj",
+      "projectName": "JustJournalAPI",
+      "projectPath": "C:\\Users\\Justice\\Desktop\\Learning\\JustJournal\\JustJournal\\JustJournalAPI.csproj",
       "packagesPath": "C:\\Users\\Justice\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Justice\\Desktop\\Learning\\JustJournal\\JustJournal\\obj\\",
       "projectStyle": "PackageReference",
